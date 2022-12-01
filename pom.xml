@@ -71,6 +71,7 @@
             </manifest>
           </archive>
         </configuration>
+        
       </plugin>
 
       <!-- für das Praktikum "Integrationstest"-->
